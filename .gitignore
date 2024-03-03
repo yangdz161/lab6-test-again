@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+Makefile
+gtest_coverage.info
+lib/libgtest_main.a
+lib/libgtest.a
+cmake_install.cmake
+CMakeCache.txt
+bin/
+CMakeFiles/
+googletest-build/
+googletest-download/
+CODE_COVERAGE/
